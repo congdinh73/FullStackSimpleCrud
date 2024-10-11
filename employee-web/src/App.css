@@ -1,0 +1,117 @@
+.main-container{
+    width: 630px;
+    height: fit-content;
+    margin-left: 75px;
+}
+h3{
+    color: blueviolet;
+}
+
+.add-panel{
+    width: 630px;
+    height: 60px;
+    border: 1px solid;
+}
+
+.search-input{
+    margin-top: 15px;
+    border: 1px solid;
+    border-radius: 5px;
+    height: 25px;
+    width: 200px;
+    background-color: aliceblue;
+}
+
+.addpaneldiv{
+    margin-left: 5px;
+    display: inline-block;
+}
+
+.addpanelinput{
+    border: 1px solid;
+    border-radius: 5px;
+    height: 25px;
+    width: 150px;
+}
+
+.addBtn{
+    border: 1px solid;
+    border-radius: 11px;
+    font-size: 11px;
+    line-height: 15px;
+    margin-left: 5px;
+    width: 60px;
+    background-color: green;
+}
+
+.cancelBtn{
+    border: 1px solid;
+    border-radius: 11px;
+    font-size: 11px;
+    line-height: 15px;
+    margin-left: 5px;
+    width: 60px;
+    background-color: green;
+}
+
+.table{
+    width: 630px;
+    height: fit-content;
+    border: 1px solid;
+    border-collapse: collapse;
+    margin-left: 75px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.th{
+    border: 1px solid;
+    border-radius: 5px;
+    font-size: 15px;
+    line-height: 20px;
+
+}
+
+.th{
+    border: 1px solid;
+    border-radius: 5px;
+    font-size: 15px;
+    line-height: 20px;
+    
+}
+
+th{
+    border: 1px solid;
+    border-radius: 5px;
+    font-size: 15px;
+    line-height: 20px;
+    
+}
+
+td{
+    border: 1px solid;
+    font-size: 15px;
+    line-height: 20px;
+    
+}
+
+
+.btnEdit{
+    border: 1px solid;
+    font-size: 10px;
+    line-height: 12px;
+    width: 50px;
+    background-color: yellowgreen;
+}
+
+.btnDelete{
+    border: 1px solid;
+    font-size: 10px;
+    line-height: 12px;
+    width: 50px;
+    background-color: tomato;
+}
+
+.errMsg {
+    color: red;
+}
